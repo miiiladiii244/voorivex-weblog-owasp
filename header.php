@@ -6,4 +6,5 @@
     <title>Voorivex Weblog System</title>
     <link rel="stylesheet" href="/statics/styles.css">
     <!-- Add any additional CSS or JavaScript links here -->
-    <body>
+</head>
+<body>
