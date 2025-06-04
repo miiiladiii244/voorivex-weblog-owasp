@@ -56,7 +56,7 @@ if (isset($_SESSION['is_logged']) === true) {
 
         <!-- Bio -->
         <label for="content">Content:</label><br>
-        <textarea style="width: 500px; height: 200px;" id="content" name="content" placeholder="Hi, in this post I want to talk about..."></textarea><br>
+        <textarea id="content" name="content" placeholder="Hi, in this post I want to talk about..."></textarea><br>
     
         <select id="category" name="category">
             <?php foreach($rows as $row){
